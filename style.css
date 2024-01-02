@@ -3,3 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+.search {
+    border-bottom-left-radius: 6px;
+    border-top-left-radius: 6px;
+}
+.search2 {
+    border-bottom-right-radius: 6px;
+    border-top-right-radius: 6px;
+}
